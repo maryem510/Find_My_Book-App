@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Find My Book</string>
+    <string name="action_add">Scan ISBN</string>
+
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="rss_library_info" translatable="false">https://opendata.nlb.gov.sg/content/RSS.LibraryInfo</string>
+    <string name="application_id" translatable="false">DEV-JamesNg</string>
+    <string name="api_key" translatable="false">REVWLUphbWVzTkc6MHBlbndAYmphbWVz</string>
+    <string name="namespace" translatable="false">http://www.nlb.gov.sg/ws/CatalogueService</string>
+    <string name="method_name" translatable="false">GetAvailabilityInfoRequest</string>
+    <string name="soap_action" translatable="false">http://www.nlb.gov.sg/ws/CatalogueService/ICatalogueService/GetAvailabilityInfo</string>
+    <string name="service_url" translatable="false">https://openweb-stg.nlb.gov.sg/OWS/CatalogueService.svc</string>
+
+    <string name="empty_book_list">You have no books in the library.</string>
+    <string name="not_ean">Invalid ISBN (EAN-13).</string>
+    <string name="not_found">No book found.</string>
+
+    <string name="book_cover">Book Cover</string>
+    <string name="book_title">Book Title</string>
+    <string name="book_subtitle">Book Subtitle</string>
+    <string name="book_author">Book Author</string>
+
+    <string name="book_detail_author">by %1$s</string>
+    <string name="book_detail_subtitle">[subtitle]</string>
+    <string name="book_detail_desc">[description]</string>
+
+    <string name="updated">updated %1$s</string>
+
+    <string name="library_name">available at %1$s</string>
+    <string name="library_address">[address]</string>
+    <string name="library_hours">[operating hours]</string>
+    <string name="library_guide">[transport guide]</string>
+    <string name="library_image">Library Photo</string>
+
+    <string name="widget_library_name">Library Name</string>
+    <string name="widget_last_update">Last Update</string>
+    <string name="widget_title">Find My Book Library</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
